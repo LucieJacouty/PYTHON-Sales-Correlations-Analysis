@@ -17,7 +17,7 @@ Nettoyage des données :
 
 Réalisation de la jointure
 
-Mise de côté desn transactions sans prix/catégories  
+Mise de côté des transactions sans prix/catégories  
 
 Vérification des clients/produits sans transactions  
 
@@ -49,7 +49,7 @@ Top 10 des plus gros acheteurs (en CA)
 Analyse de la répartition des ventes par clients (courbe de Lorenz et indice de Gini)  
 Top 10 des plus gros acheteurs (en nombre de ventes)  
 
-### Code Analyses 02  
+## Code Analyses 02  
 
 Utilisation des librairies : Numpy, Pandas, Matplotlib, Seaborn, Scipy et Statsmodel 
 
@@ -58,7 +58,8 @@ Mise de côté des gros acheteurs
 ### Etude corrélation entre genre des clients et catégories de livres :  
 
 Test chi2 sur les clients uniques  
-Test d'ANOVA sur toutes les transactions  
+Test d'ANOVA sur toutes les transactions 
+-> Pas de corrélations 
 
 ### Etude des corrélations liées à l'âge des clients :  
 
@@ -83,8 +84,8 @@ Reprise des données originales (avec les 4 clients mis de côtés)
 Calcul de la probabilité qu'un client achète la référence 0_525  
 Calcul de la probabilité qu'un client achète la référence 2_159  
 
-Calcul P(A inter B) : probabilité qu'un client achète les deux références.
--> Même nombre de clients. Tous les clients ayant acheté 0_525 ont également acheté la référence 2_159. 
+Calcul P(A inter B) : probabilité qu'un client achète les deux références  
+-> Même nombre de clients. Tous les clients ayant acheté 0_525 ont également acheté la référence 2_159  
 -> Environ 86.6% de chances qu’un client ayant acheté la référence 2_159 achète également la référence 0_525. 
 
 
