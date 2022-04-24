@@ -2,6 +2,7 @@
  
 Projet Openclassrooms formation data Analyst  
 
+
 ## Code Preparation   
 
 Utilisation des librairies : Numpy, Pandas, Matplotlib et Seaborn  
@@ -22,6 +23,7 @@ Mise de côté des transactions sans prix/catégories
 Vérification des clients/produits sans transactions  
 
 Enregistrement du fichier de travail  
+
 
 ## Code Analyses 01    
 
@@ -48,6 +50,7 @@ Top 10 des plus gros acheteurs (en CA)
 
 Analyse de la répartition des ventes par clients (courbe de Lorenz et indice de Gini)  
 Top 10 des plus gros acheteurs (en nombre de ventes)  
+
 
 ## Code Analyses 02  
 
