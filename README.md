@@ -1,6 +1,15 @@
 # Analyse des ventes d'une librairie et recherche de corrélations
  
-Projet Openclassrooms formation data Analyst  
+Projet Openclassrooms - Formation Data Analyst  
+
+
+Objectif : Analysez les performances d'une libraire en ligne (analyse KPI, analyse comportements clients)  
+
+Contenu :
+- Data : 3 datasets (clients, produits, transactions)
+- Code Préparation : notebook jupyter regroupant les étapes de vérification et nettoyage des données
+- Code Analyses 01 : notebook jupyter regroupant les analyses KPI
+- Code Analyses 02 : notebook jupyter regroupant les analyses comportements clients (corrélations, probabilité d'achat)
 
 
 ## Code Preparation   
